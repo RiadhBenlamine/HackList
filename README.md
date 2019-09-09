@@ -1,7 +1,7 @@
 #HackList
 
 Great Tools every pentester and hacker should use them
-, i would like to share with you most tools i'm using for 2019.
+, i would like to share with you most tools i'm using for 2019 
 
 ###Information Gathering
 
@@ -11,7 +11,7 @@ Great Tools every pentester and hacker should use them
 - [netcraft](netcraft.org)
 - [churchbase](curchbase.com)
 - Meltago
-- [recon-ng](https://LaNMaSteR53@bitbucket.org/LaNMaSteR53/recon-ng.git)
+- [recon-ng](https://LaNMaSteR53@bitbucket.org/LaNMaSteR53/recon-ng)
 - Google Dork
 - Wappylyzer **Firefox Plugin**
 - Built-With **Firefox Plugin**
@@ -63,5 +63,26 @@ Great Tools every pentester and hacker should use them
 - [XSSstrike](https://github.com/s0md3v/XSStrike)
 - Owsap ZAP
 - SqlNinja
+- CAT
 
-###
+###Password Attaking 
+
+- John the Ripper
+- Hydra-THC
+- Cain & Able
+- Rainbow Tables
+- [Zip-Cracker](https://github.com/RiadhBenlamine/ZIP-Cracker) *Mine*
+- Hashidentifire
+- Hashcat
+- Curnch
+- Cupp
+
+### Wireless Attacking
+
+- Aircrack-ng
+- Wifite2
+- wifiphisher
+
+### Social Engineering
+- SET 
+- weeman 
